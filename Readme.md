@@ -1,6 +1,6 @@
 # Manipulando o DOM
 
-Projeto referente ao curso "Manipulando o DOM" ministrador pela [Digital Innovation One](https://digitalinnovation.one/) e pela professora [Stephany Nusch] (https://https://github.com/stebsnusch)
+Projeto referente ao curso "Manipulando o DOM" ministrador pela [Digital Innovation One](https://digitalinnovation.one/) e pela professora [Stephany Nusch.](https://github.com/stebsnusch)
 
 ## Atividade: Light Mode/Dark Mode
 
